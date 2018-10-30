@@ -1,0 +1,80 @@
+ html {
+     background-color: rgb(241, 234, 234)
+ }
+
+ body {
+     margin: 5% 30% 0% 30%;     
+ }  
+
+h1 {
+  text-align: center;  
+  font-family: 'Shrikhand', cursive;
+  margin-bottom: 0%;
+}
+
+h3 {
+    margin-top: 0%;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: center;
+    height: auto;
+}
+
+hr {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#main {
+    background-color: white;
+    border: 1px solid black; 
+    border-radius: 10%;    
+} 
+
+#tribute-info {
+    text-align: block;    
+}
+
+#img-div {
+    text-align: center;    
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#links {
+    text-align: center;
+}
+
+#impressum {
+    text-align: center;
+}
+  
+#first-li {
+  list-style-image: url("https://cdn.frankerfacez.com/emoticon/163076/1");
+  }
+  
+#second-li {
+  list-style-image: url("https://cdn.frankerfacez.com/emoticon/126950/1");
+  }
+
+#third-li {
+  list-style-image: url("https://cdn.frankerfacez.com/emoticon/147553/1");
+  }
+
+#fourth-li {
+  list-style-image: url("https://cdn.frankerfacez.com/emoticon/239909/1");
+  }
+
+#fifth-li {
+  list-style-image: url("https://cdn.frankerfacez.com/emoticon/196406/1");
+  }
+  
+#last-li {
+  list-style-image: url("https://cdn.frankerfacez.com/emoticon/237938/1");
+  }
+  
